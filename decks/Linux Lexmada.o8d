@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1f9e9d47-2329-4473-af84-cc42ed9c399b">
+  <section name="Commander">
+    <card qty="1" id="9c46a670-fa7e-4cf1-b4a5-ea21663c7e46">Linux Lexmada, Emergency Earth Coalition Commander</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="b1cd144f-941c-4418-955b-9cd45005e7d1">New Arkom</card>
+  </section>
+  <section name="TEK">
+    <card qty="1" id="546e57bd-9f45-4f6b-963e-05f6d17bbcf7">Capitol Ship Solaris</card>
+    <card qty="2" id="3b312736-c7c1-4b49-8ae0-f5105deea980">Prism Tower</card>
+    <card qty="2" id="eba0f97a-98b5-4de1-a72c-671593461004">V-Sphere Holo Chamber</card>
+    <card qty="2" id="63ac5c15-2ef2-4643-8886-53299d4fa5e3">Fusion Reactor</card>
+    <card qty="2" id="4d520fec-aa1f-4226-acb2-b3618c5030b3">Data Center</card>
+    <card qty="1" id="098903cf-18f8-4bae-a648-584a3850a31e">DARPA</card>
+    <card qty="1" id="2079cc30-dcdb-4085-896c-ce630022e99a">SKYCOMM War Room</card>
+    <card qty="1" id="104da627-1bd9-4a9b-9c60-09875ae37eee">Titan Forge</card>
+    <card qty="1" id="21403c8c-82e8-4a33-aa49-5c5a3234c655">SKYCOMM</card>
+    <card qty="1" id="c033c87d-153d-4e1e-ab3e-21a58b43247e">Tank Yard</card>
+    <card qty="1" id="8e19e3a3-d9f6-4c93-a956-0274ec1e216b">Communications Array</card>
+    <card qty="1" id="9046260e-82f2-4a1d-9c1e-573cf72957fc">Subterranean Colony</card>
+    <card qty="1" id="534410c6-0b0e-4c5f-bc20-e17072c11807">Battlefield Logistics</card>
+  </section>
+  <section name="OPS">
+    <card qty="3" id="771a8aeb-518c-4ade-832c-cfa487d276c9">Enduring Human Spirit</card>
+    <card qty="2" id="c0443f28-01f8-4082-9d2e-be3aad6066c5">Tactical Genius</card>
+    <card qty="3" id="5fcb5a77-ad92-46b8-8372-75d231d79cc0">Assume Command</card>
+    <card qty="2" id="be42e6d3-1cd0-4db7-a1b5-775990430ca3">Pinpoint Nuke</card>
+    <card qty="2" id="bc6c7051-0a70-4a44-a6f1-d407d0b9c6b9">All Hands Barrage</card>
+    <card qty="2" id="02919b74-63e3-4ece-8144-893432dc1b83">Inspiring Transmission</card>
+  </section>
+  <section name="WAR">
+    <card qty="2" id="69cec5cf-a615-48e3-b302-831247b47411">Quick Response Walker</card>
+    <card qty="1" id="6a041cdf-5a94-4840-9f41-c330f723c41e">X5 Standard Walker</card>
+    <card qty="1" id="34c6757f-1b79-4c75-b46d-2aaefc478ac0">Flame Walker</card>
+    <card qty="1" id="049c7bd0-06a7-4bb4-bda7-646ebe6a0429">City Defense Walker</card>
+    <card qty="2" id="07480292-5d99-40db-899d-98386b0dc955">C37 Powell</card>
+    <card qty="1" id="63199fdc-28db-485e-a24f-83ecf0c6e4f0">D52 Patreaus</card>
+    <card qty="1" id="9357f440-e17d-4b0c-abf4-5d43bb643af3">D32 Ramsfeld</card>
+    <card qty="2" id="46ac40b1-f6cf-4585-b7bc-99947a966ee2">D03 MacArthur</card>
+    <card qty="1" id="cfb86fc4-4d62-42ed-ac0c-8d93a27bf2d6">SWAT Responder</card>
+    <card qty="1" id="bd0635c2-9452-426d-96a8-ba35680e4e25">XF34 Peregrine</card>
+    <card qty="1" id="dec9ce45-baeb-4505-a2ed-dfb901aaa99e">Vega Platform</card>
+    <card qty="1" id="d6062d65-ad29-479a-a064-be74d3674ca0">Zeus Heavy Transport</card>
+    <card qty="2" id="4cd5967c-1365-485f-98e9-43fa793f6754">Helios Platform</card>
+  </section>
+</deck>

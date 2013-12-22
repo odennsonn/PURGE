@@ -1,0 +1,407 @@
+GAME OBJECTIVE
+
+Each player starts with a Faction Stronghold with a listed (population) count. Whichever player manages to reduce their opponents Stronghold count to zero (0) wins.
+
+Required Items for 1 Versus 1 Game Play:
+• 1 Faction Commander (which must be of opposite faction of the other player)
+• 1 Faction Stronghold
+• A maximum of 50 cards, including Commanders and Strongholds, can be played.
+
+Card (Element) Classification Types and Sub-types:
+• Commander
+• Stronghold
+• OPS (Operations)
+• Unit
+  - Class I: Infantry
+  - Class II: Tank
+  - Class III: Jet
+  - Class IV: Rig/Dreadnought/Mother Ship
+• Stronghold Attachment
+  - Class I: Defensive Attachment
+  - Class II: Resource Attachment
+• TEK (Technology)
+• Super Weapon
+
+GAME FUNDAMENTALS
+
+The Three Deck Arrangements
+• WAR Deck- The WAR deck contains Unit cards.
+• TEK (Technology) Deck- The TEK deck holds Technology (TEK) cards, Defensive Attachments, Resource Attachments and Super Weapon.
+• OPS (Operations) Deck- The OPS deck includes only OPS cards.
+
+Card Types
+• Stronghold - Your Stronghold represents the center of your faction’s industrial war machine and is the heart of your populace. Each Stronghold has a corresponding population, represented by the value on each Stronghold card. Whenever a player’s Stronghold reaches zero, that player loses the game.
+  Stronghold Defender Rule 1 - An Attacker may not target a Stronghold for attack by Units or Commanders until all defending Units have been killed. This rule does not apply to OPS cards.
+• Resource Attachment- Resource Attachments symbolize the advanced power production facilities which generate the energy needed to fuel your faction’s industrial war complex.
+  The Energy Production icon indicates how much energy will be produced at the beginning of each new turn.
+• Defensive Attachment- Protect your Stronghold by attaching Defensive Attachments.
+  Defensive Attachment Rule 1 - Defensive Attachments may not be targeted for attack by your opponents Units or Commanders. Additionally, Defensive Attachments may never leave their corresponding Stronghold Vector.
+• Technology - Gain an edge on the battlefield and unlock superior Unit abilities and Commander OPS with TEKS.
+  Technology Rule 1 - Only one TEK of the same name can be in play and under your control at any given time.
+  Technology Rule 2 - Only one TEK can be played per turn per player.
+• Unit - Units may assault and defend specified positions and may possess activated, static, triggered and unlocked abilities to increase their usefulness during combat. All Units have Battle Stats and unit sub-types.
+  Unit Rule 1 - All players can only start producing Infantry Class Units at the start of a game. Tank, Jet and higher class Units are unlocked as the game progresses.
+  Unit Rule 2 - Whenever a Unit enters play, it is put at its respective owners Stronghold Vector.
+  Unit Rule 3 - Battle Stats, both offensive and defensive, do not regenerate until the end of turn. Defensive Stats regenerate at the end of turn only if the respective Unit/Commander is at their Stronghold.
+• Commander - Commanders are powerful leaders of Factions. In addition to having abilities, like Units, Commanders may also make use of their respective OPS cards which have unique effects. Commanders may be attacked by enemy Units, Commanders, Super Weapons and Defensive Attachments and can be killed if not properly managed during battle.
+• OPS- Each OPS card has a sub-type indicating which Commander can execute the card. OPS cards may be played at any time as long as their energy icon and TEK icon requirement can be satisfied.
+• Super Weapon - Super weapons are the pinnacle of technological achievement for each Faction.
+  Super Weapon Rule 1 - Only one Super Weapon may be placed in a players TEK deck.
+
+VECTORS OF PLAY
+
+A Total of Three (3) Vectors Exist on the Playing Surface at Any Given Time
+• 2 Player Stronghold Vectors - The Stronghold Vector is where Strongholds, TEKS and all Attachments reside. Two (2) types of Stronghold Vectors are in play, the friendly Stronghold Vector (where your Stronghold, TEKS and Attachments are placed) and your opponents Stronghold Vector (where your opponents Stronghold, TEKS and Attachments are placed). Additionally, whenever a Unit is put into play, it is placed at the Stronghold Vector of the player who played the card.
+• 1 Battlefield Vector - (also known as the Field Vector) is the space between your Stronghold Vector and your opponent’s Stronghold Vector. In order for Units and Commanders to attack opposing Stronghold Vectors, they must first enter the Battlefield Vector.
+
+
+                 ____________     ____________     ____________
+                |            |   |            |   |            |
+                |            |   |            |   |            | 
+                |  TEK Deck  |   |  OPS Deck  |   |  WAR Deck  |
+                |            |   |            |   |            |              
+                |____________|   |____________|   |____________|            
+
+   ...........................................................................
+   :                                                                         :
+   :                                                                         :
+   :                     - PLAYER A STRONGHOLD VECTOR -                      :
+   :   (TEKs, Stronghold & Attachments reside here. Units enter play here)   :
+   :                                                                         :
+   :.........................................................................:
+
+   ...........................................................................
+   :                                                                         :
+   :                                                                         :
+   :                          - BATTLEFIELD VECTOR -                         :
+   :                                                                         :
+   :.........................................................................:
+
+   ...........................................................................
+   :                                                                         :
+   :                                                                         :
+   :                     - PLAYER B STRONGHOLD VECTOR -                      :
+   :   (TEKs, Stronghold & Attachments reside here. Units enter play here)   :
+   :                                                                         :
+   :.........................................................................:
+
+                 ____________     ____________     ____________
+                |            |   |            |   |            |
+                |            |   |            |   |            | 
+                |  TEK Deck  |   |  OPS Deck  |   |  WAR Deck  |
+                |            |   |            |   |            |              
+                |____________|   |____________|   |____________|  
+
+
+
+
+CARD BREAKDOWN
+
+
+                                            [Card Type]      [Energy Cost]
+                                                 |                 |
+                                  _______________|_________________|__________  
+                   [Card Name]---|- Zero Hour - TEK                8 ||    0 -|--- [Technology Requirement]
+                                 |___________________________________||_______|    
+                                 |                                            | 
+                                 |                                            | 
+                                 |                                            | 
+                                 |                                            |
+                                 |                                            |    
+                                 |                                            |
+                                 |                                            |
+                                 |                                            | 
+                                 |                                            |
+                                 |                                            |
+                                 |............................................|
+                                 |:  You may now play Super Weapon cards.  --:|--- [Card Text]
+                                 |:                                          :|
+                                 |:..........................................:| 
+                                 |____________________________________________|
+
+
+
+• Card Name - Name of the card.
+• Energy Cost (Thunder Icon) - The amount of energy required to expend in order to put a card into play.
+• Technology Requirement (Gear Icon) - The number of TEKS in play and under your control needed in play in order to play the card.
+• Card Type - Specifies the card type: Unit, Commander, OPS, TEK, Stronghold, Defensive Attachment, Resource Attachment or Super Weapon. Some cards may also have a sub-type, such as a Unit sub-type (Tank) or Super Weapon - Unit.
+• Card Text (Effect) - The effect of the played card which may alter the state of the game or mechanics.
+
+CARD BREAKDOWN (UNIT)
+
+
+                                            [Card Type]  [Unit Sub-class]  
+                                                    |      |                 
+                                  __________________|______|__________________  
+                  [Card Name] ---|- Chrono Drone - UNIT: Tank              8 -|--- [Energy Cost]
+                                 |____________________________________________|   
+                                 |__________                        __________| 
+                                 | ATTACK 2 |                      |  ARMOR 1 | 
+             [Offensive Stats]---|__________|                      |__________|--- [Defensive Stats] 
+                                 | DAMAGE 3 |                      | HEALTH 5 |
+                                 |__________|                      |__________|    
+                                 |                                            |
+                                 |                                            |
+                                 |                                            | 
+                                 |                                            |
+                                 |                                            |
+  [Unlocked or Stated Aility] ---|-Chronometry*                               | 
+                                 |____________________________________________|
+
+
+Unit Battle Stats 
+Battle Stats are indicators of how well a Unit, Commander or Defensive Attachment will fare in battle. There are Six battle stats grouped into two different categories:
+
+Offensive Stats (located on the left side of the card): ATTACK, DAMAGE and INITIATIVE.
+• ATTACK (Target Icon) - The number of attacks a Unit, Commander or Offensive Attachment may take during a Battle Instance. Once a Unit or Commander expends all its attacks, they may not attack for the rest of the turn.
+• DAMAGE (Blast ICon) - The amount of damage a Unit, Commander or Offensive Attachment does to its target per attack.
+• INITIATIVE (Hourglass Icon) - Determines which player goes first. This stat is unique to Commanders only. At the start of each turn, the player whose Commander possess the highest decides who goes first. In the case of a tie, a coin is flipped to decide which player makes the choice of who goes first.
+
+Defensive Stats (located on the right side of the card): ARMOR, HEALTH and POPULATION. 
+• ARMOR (Shield Icon) - The armor value of a Unit. reduces the amount of damage a Unit or Commander receives from an attack, ability or OPS card. Damage reduced by armor this way is then carried over to a Unit/Commanders or a Strongholds .
+  Armor Rule: Units, Commanders, Super Weapons and Strongholds may not have more than 3 at any time. OPS cards which increase may not surpass the maximum cap of 3.
+• HEALTH (Cross Icon) - Represents the amount of health a Unit or Commander has. Once a Unit or Commander has its reduced to zero, it is removed from play and put into the War Deck discard pile.
+• POPULATION (Tower Icon) - The amount of Population a Stronghold has. Once a Stronghold’s reaches zero, that player loses the game.
+
+Unit Abilities
+Abilities are unique effects which are stated on cards and alter aspects of the game or game play. There are four different types of abilities:
+
+• Passive - Passive abilities are in effect at all times. There is no conditional triggering or activation costs required. An example passive ability may read “all of your Units gain +1 ”.
+• Triggered - A triggered ability only takes effect when a specified event occurs. Triggered abilities are always stated on the card. An example triggered ability may read “this Unit gains +1 whenever it receives damage”.
+• Activated - Activated abilities take effect whenever you choose, like OPS cards, as long as you have the energy or stated prerequisite to pay for activation.
+• Unlocked - Unlocked abilities cannot take effect until you place their corresponding TEK card into play. Once the prerequisite TEK is put into play, an unlocked ability can resolve its effect. Only TEKs in play under your command allow unlocked abilities to take effect for your Units and Commanders.
+
+STARTING A GAME
+
+Each player starts with the following in play: 
+• 1 Commander
+• 1 Stronghold
+• 1 Resource Attachment with a Technology Requirement of 0.
+• 1 TEK with an Energy Cost of 3 or below. 
+
+Both players check their Commanders Initiative and the player with the highest Initiative decides who starts the first turn.
+
+GAME PLAY BASICS
+
+Gaining & Expending Energy
+All cards require energy in order to put into play or execute their stated ability. Energy is generally acquired in two ways:
+
+1) Your Stronghold produces energy as indicated by its EP value .
+2) You may add Resource Attachments to your Stronghold to increase overall energy output as indicated by the resource attachments EP value.
+
+Energy produced from your Stronghold and Resource Attachments is “use or lose”. Meaning that is does not carry over from turn to turn.
+
+Satisfying Technology Requirements
+Technology Requirement is represented by the icon. In order to play a card with a Technology Requirement of three (3), you must have three (3) TEK cards in play. Your opponent’s technologies in play may not be counted to satisfy this requirement; only technologies you have in play count.
+
+Putting Cards into Play
+Putting cards into play, such as an OPS with an Energy Cost of five and Technology Requirement of three, is simple. Search through your OPS deck for the desired card. Expend the five required energy from your energy pool and check for 3 TEKS in play. After you have expended the required amount of energy and satisfy the Technology Requirement, declare the card name and put it onto the stack for resolution.
+All cards, with the exception of OPS, can only be played during your sub-phase. You cannot play a Unit, TEK, Super Weapon or Attachment card during your opponents sub-phase.
+
+Executing OPS Cards
+OPS can be played at any time as long as you can pay for their Energy Cost and satisfy their Technology Requirement . OPS abilities range from global effects, vector effects, multiple targets of choice, single targets of choice or predetermined targets. The player who executes the OPS card decides which target(s) is chosen for effect resolution.
+
+Responding to OPS Cards
+OPS follow the “last in, first out” rule for resolution also known the “Stack Rule”. Because OPS effects do not resolve immediately, both you and your opponent have the opportunity to respond to declared OPS.
+
+OPS Resolution
+Once a OPS has resolved its stated effects, the OPS is then put into that players OPS deck discard pile and is no longer available for use.
+
+ANATOMY OF A TURN
+
+At the beginning of each turn, the player with the highest Commander Initiative decides who goes first. The player chosen to go first has 1 choice from a variety of actions to choose from:
+The Below Represents an Action (Only 1 may be taken during a player’s sub-phase)
+
+• Move a Unit, Commander or a combined group (unlimited movement per turn)
+• Initiate a Battle Instance
+• Perform up to three (3) Actions
+  - Play a Unit
+  - Play a Defensive Attachment
+  - Play a Resource Attachment
+  - Play a TEK
+• Pass (do nothing)
+
+Once a player performs an action, the opposing player then performs an action.
+This process is repeated until both players perform a “Pass” action. Once both players perform a “Pass” action consecutively, the turn is ended and a new turn begins.
+At the beginning of each turn, all Energy Pools are replenished and all offensive stats for all permanents are regenerated.
+Beginning of Turn Rule: Units and Commanders not in their friendly Stronghold Vector do not regenerate Defensive Stats at the beginning of the turn.
+
+UNIT ABILITIES
+
+Unlocked Abilities (Requires TEKS to Unlock Effects):
+• Clone DNA- OPT (Once Per Turn): Resurrect Eva X at your Stronghold.
+• Composite Armor (X)- Units with this ability have damage dealt by abilities and OPS reduced by (x).
+• Critical Mass- Units/Commanders with this ability always do 1 on attacks regardless of the targets or any ability preventing damage. Units with Critical Mass also cannot be removed from the game by OPS or ability effects.
+• Cumulative: In addition to its normal effects, this card has the has the following effect “OPS cards cost you +1 to play until the end of turn”.
+• Entrenched- Units or Commanders with Entrenched ignore the Attacker Rule and get to make the first attack during a Battle Instance as long as the Unit or Commander with Entrenched is the Defender in a Battle Instance. This ability may only be activated by 1 Unit and only once per Battle Instance.
+• Fractal Repairs (x)- Pay (x): Resurrect a Unit or Commander with this ability at your Stronghold.
+• Fury- Units with the Fury ability gain +1 when they are the Attackers in a Battle Instance.
+• Irradiate: OPT: Deal X damage to target Unit or Commander (where X equals the amount of damage the source with Irradiate has sustained).
+• Memory Metal- Whenever a Unit or Commander with this ability is dealt damage, it gains +1 until the end of turn. Units or Commanders with Memory Metal have their maximum cap increased to 4.
+• Pyrite Rounds- Units and Commanders damaged by a source with Pyrite Rounds has it’s reduced by 1 permanently. This effect resolves before damage is calculated to .
+
+Stated Abilities (Does not Require TEKS to Unlock):
+• Cloaking- Units and Commanders with Cloaking cannot be targeted by OPS cards or triggered abilities your Opponent controls.
+• Defender- Units and Commanders with this ability gain +2 when they are the Defenders in a Battle Instance.
+• Flux- OPT: Move any amount of from a source with Flux to any other source with the Flux ability.
+• Jet- Jet Class Units may participate in Battle Instances 2 vectors away. Jets may only be targeted for attack by other Units and Commanders with the Jet ability unless otherwise stated.
+• Overlay- OPT: Attach the Unit/Commander with Overlay onto target friendly Unit. The targeted Unit has all its Stats, both Defensive and Offensive, increased by the corresponding Stats of the source with the Overlay effect.
+• Tactician- Unlocks the Overlay effect. Units and Commanders with the Tactician ability cannot be directly or indirectly targeted or affected by OPS, TEKS or abilities.
+
+UNIT SUPPLY CAP & TURN ENTRY
+
+Only so many Units may be fielded in play at any given time. The number of Units a player may have in play is governed by their respective Supply Cap.
+• Each Race has the Following Supply Caps:
+
+         ________________________
+        | FACTION   | SUPPLY CAP |
+        |___________|____________|
+         ________________________
+        | Ancients  |     10     |
+        |___________|____________| 
+        | Humans    |     11     |
+        |___________|____________| 
+        | Machines  |     12     |
+        |___________|____________| 
+
+• Each Unit Sub-class has a Different Supply Cap Associated with it,
+• Each Unit Sub-class, in addition to their Supply Cost, also as a limit as to which turn it can be played:
+         _____________________________________________________________
+        | UNIT SUB-CLASS                   | SUPPLY COST | TURN ENTRY |
+        |__________________________________|_____________|____________|
+         _____________________________________________________________
+        | Infantry                         |      1      |     1      |
+        |__________________________________|_____________|____________| 
+        | Tank                             |      3      |     3      |
+        |__________________________________|_____________|____________| 
+        | Jet                              |      4      |     5      |
+        |__________________________________|_____________|____________| 
+        | Rig/Dreadnought/Mother Ship      |      5      |     6      |
+        |__________________________________|_____________|____________|
+        | Super Weapon                     |      0      |   (N/A)    |
+        |__________________________________|_____________|____________| 
+        | Tokens (Regardless of Sub-class  |      0      |   (N/A)    |
+        |__________________________________|_____________|____________|
+
+Once the combined number of Units reaches the maximum Supply Cap, no more Units may be played. If a Unit that would enter play causes a player to exceed his/her Supply Cap, then that Unit may not be played.
+
+• Token Rule - Token Class Units do not count towards Unit Supply Cap. All tokens which are not removed from play at the end of a Battle Instance are removed from play at the end of turn.
+• Commander Rule - Commanders do not count towards Unit Supply Caps.
+• Super Weapon Rule - Super Weapons do not count towards Unit Supply Caps.
+
+BATTLE INSTANCES
+
+Rules for Battle Instances:
+• The Units and/or Commander which initiated the Battle Instance on a declared vector are considered the attackers. Opposing Units and/or Commanders who are located in the targeted vector for attack are considered the defenders.
+• Defensive Attachments and Strongholds are always considered defenders.
+• Attackers take the first battle action.
+• Units/Commanders may not perform the Retreat Battle Action if defending in the Stronghold vector.
+
+Battle Actions
+• Execute a Unit, Commander or Defensive Attachment Attack.
+• Retreat (Unit or Commander is removed from battle, suffer -1 and is placed at its respective Stronghold Vector).
+  - Defensive Attachments and Strongholds cannot retreat.
+  - Units and Commanders defending their Stronghold cannot retreat.
+• Pass- A player chooses not to perform any action.
+
+Initiating a Battle Instance
+To initiate a Battle Instance, during his/her sub-phase, a player may declare an attack on a Vector and assign any number of Units and/or Commanders he/she controls in any adjacent vector to participate as an Attacker. All Opposing Units, Strongholds and Commanders located in the attacked Vector are automatic participants in the ensuing Battle Instance. Defensive Attachments are automatically considered Defenders when their attached Stronghold is participating in a Battle Instance.
+
+Resolving a Battle Instance
+
+A Battle Instance is resolved when:
+• All Opposing forces are killed.
+• No Units or Commanders are present.
+• All Units, Commanders and Defensive Attachments participating in the Battle Instance have their reduced to zero.
+• Both players choose the “Pass” action consecutively.
+
+Attacking Sequence & Calculating Damage
+
+Attacking during a Battle Instance is conducted in a back and forth manner. With the Attacker exercising the first attack, followed by the defending player. Each player goes back and forth expending Unit/Commander/Defensive Attachment attacks until the prerequisites for resolving a Battle Instance are met. Calculating damage and demonstrating battle instance can be illustrated as such:.
+         __________________________   __________________________              __________________________  
+        |        ATTACKER 1        | |        ATTACKER 2        |            |         DEFENDER         | 
+        |__________________________| |__________________________|            |__________________________| 
+        |__________     ___________| |__________     ___________|            |__________     ___________| 
+        | ATTACK 2 |   |  ARMOR 1  | | ATTACK 2 |   |  ARMOR 1  |     VS     | ATTACK 2 |   |  ARMOR 1  |
+        |__________|   |___________| |__________|   |___________|            |__________|   |___________|  
+        | DAMAGE 3 |   |  HEALTH 5 | | DAMAGE 3 |   |  HEALTH 5 |            | DAMAGE 4 |   | HEALTH 10 |
+        |__________|   |___________| |__________|   |___________|            |__________|   |___________|    
+        |                          | |                          |            |                          |
+        |__________________________| |__________________________|            |__________________________| 
+
+• Attacking Players Action:
+  “Attacker A” expends 1 ATTACK at 3 DAMAGE to the Defender. The Defender reduces the damage by his ARMOR value (1) for a total of two damage, which is carried over to the Defenders HEALTH; reducing the Defenders HEALTH by 2 (8 HEALTH remaining). “Attacker A” has 1 ATTACK remaining.
+• Defending Players Action:
+  The Defender expends 1 ATTACK at 4 DAMAGE to the “Attacker B”. “Attacker B” reduces the damage by his ARMOR value (1) for a total of three damage, which is carried over to his HEALTH; reducing “Attacker B” HEALTH by 3 (2 HEALTH remaining). The Defender has 1 ATTACK remaining.
+• Attacking Players Action:
+  “Attacker A” expends 1 ATTACK at 3 DAMAGE to the Defender. The Defender reduces the damage by his ARMOR value (1) for a total of two damage, which is carried over to the Defenders HEALTH; reducing the Defenders HEALTH by 2 (6 HEALTH remaining). “Attacker A” has 0 remaining ATTACK and may not attack for the rest of the turn.
+• Defending Players Action:
+  The Defender expends 1 ATTACK at 4 DAMAGE to the “Attacker B”. “Attacker B” reduces the damage by his ARMOR value (1) for a total of three damage which is carried over to his HEALTH; reducing “Attacker B” HEALTH by 3 (0 HEALTH remaining). “Attacker B” is killed and removed from play and put into the Unit discard pile.
+• All Units and Commanders present in the Battle Instance has zero ATTACK remaining; thus the battle instance is resolved and all Units and Commanders which did not Retreat are placed in the Field Vector.
+
+DECKBUILDING
+
+Each player must have a Purge Deck of no more than 50 cards split between OPS, TEK and WAR decks. These three decks, along with your Stronghold and Commander cards, come together to form a Purge Deck.
+A Purge Deck consists of the following:
+
+• 1 Faction Commander Card
+• 1 Faction Stronghold Card
+• 48 Cards in combination of OPS, TEK and Unit cards.
+
+A Purge Deck is subdivided into a WAR deck for Units, an OPS deck for Operations and a TEK deck for powerful technologies.
+While different Commanders may rely on a traditional war machine consisting of combat Units, others draw their power more from their OPS or TEK to win. Because of this, different Purge Decks may have varying amounts of cards in their respective WAR, OPS, or TEK decks. Though the three decks may vary in size, the total number of cards required for a Purge Deck is 50.
+
+Additionally, Purge Decks must adhere to the following guidelines:
+         _______________________________________________________
+        | CARD TYPE             | MAXIMUM COPIES | DECK MAXIMUM |
+        |_______________________|________________|______________|
+         _______________________________________________________
+        | OPS (Operation)       |        4       |    (None)    |
+        |_______________________|________________|______________| 
+        | TEK (Technology       |        1       |       8      |
+        |_______________________|________________|______________| 
+        | Unit                  |        3       |    (None)    |
+        |_______________________|________________|______________| 
+        | Resource Attachment   |        2       |       6      |
+        |_______________________|________________|______________|
+        | Defensive Attachment  |        2       |       1      |
+        |_______________________|________________|______________| 
+        | Super weapon          |        1       |       1      |
+        |_______________________|________________|______________|
+
+All cards in a Purge Deck must be of a similar Faction as your Commander. For example, if your Commander is from the Human Faction, all cards must also be from the Human Faction. The color of the card indicates which Faction a card belongs:
+• Red - Humans
+• Green - Machines
+• Blue - Ancients
+
+Please note, when building a Purge Deck, you are limited to the COMM OPS of the Commander designated on the OPS card. Commanders cannot make use of other Commanders COMM OPS anyway, so it would be wasted in your deck.
+
+PURGE GLOSSARY
+
+• Attacking Unit/Commander: Refers to the Units and Commander considered the Attackers in a Battle Instance.
+• Battle Resolution: The very end of a Battle Instance; some effects trigger during this part of a Battle Instance.
+• Cancel: Cards which are subject to Cancel do not resolve or enter play and are put in their respective discard pile.
+• Counter/Token: An object used to represent a number associated with an ability, Token Unit, Stat or effect.
+• Friendly Units: Units under your control.
+• Nullify: Cards which are subject to Nullify do not resolve or enter play and are put back in their respective deck.
+• Opposing Units: Units under your Opponents control.
+• OPT: Stands for “Once Per Turn”. OPT means that the ability or effect associated with activation can only be used once per turn (OPT).
+• Regenerate: The act of increasing a Unit, Commander or Stronghold stat back to a previous numerical state.
+• Source: A TEK, Unit, Super Weapon, Commander, Token/Counter or Attachment located in any vector of play or discard pile. Cards in their respective decks do not count as sources since they have not entered play. Cards removed from the game do not count as sources.
+• Token Unit/Commanders: A Unit/Commander which must be removed from play either upon Battle Resolution or at the end of the turn. Token Commanders do not count as Commanders and are considered Units.
+
+DOWNLOADS
+
+Additional Downloads from Nova Forge Enterprise Website:
+
+• Extended Rules:
+http://www.purgesinsofscience.com/downloads/PURGE_RULES_EXPANDED.pdf
+
+• Inaugural Set Strategy Guide:
+http://www.purgesinsofscience.com/downloads/PURGE_STRATEGY_GUIDE.pdf
+
+
+
+
+
+

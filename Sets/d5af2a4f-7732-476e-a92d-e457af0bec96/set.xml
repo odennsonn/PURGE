@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Inaugural Set" id="d5af2a4f-7732-476e-a92d-e457af0bec96" gameId="1f9e9d47-2329-4473-af84-cc42ed9c399b" gameVersion="1.0.1" version="1.0">
+	<cards>
+		<card id="187f5bb8-741e-495b-8322-c5b0ed003453" name="Eva X, Alpha Clone Matriarch">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Commander" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="Pyrite Rounds*, Clone DNA*" />
+			<property name="Effect" value="" />
+			<property name="Category" value="Commander" />
+			<property name="Attack" value="2" />
+			<property name="Damage" value="3" />
+			<property name="Initiative" value="6" />
+			<property name="Armor" value="1" />
+			<property name="Health" value="5" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="86027463-9ffb-40ff-b0e7-1552d979b53d" name="Hawking Cannon">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Super Weapon" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="Discard 3 cards from any deck you control: deal 7 DMG to target Unit or Commander." />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="9" />
+			<property name="TEK Req" value="6" />
+		</card>
+		<card id="d5f80d2f-4f08-4d63-8268-ed73cdb87b12" name="Tridora City">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="Stronghold" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="1" />
+			<property name="Health" value="" />
+			<property name="Population" value="19" />
+			<property name="Production" value="3" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="3b312736-c7c1-4b49-8ae0-f5105deea980" name="Prism Tower">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="Defensive Attachment" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="Prism Tower may attack Jet Class Units." />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="3" />
+			<property name="Damage" value="4" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="6" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="668d59c5-7f46-4a31-8003-e6247c2c33e3" name="Hell Screamer Missile Batteries">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="Defensive Attachment" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="1" />
+			<property name="Damage" value="5" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="3" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="eba0f97a-98b5-4de1-a72c-671593461004" name="V-Sphere Holo Chamber">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="Resource Attachment" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="0" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="3" />
+			<property name="Energy Cost" value="2" />
+			<property name="TEK Req" value="3" />
+		</card>
+		<card id="63ac5c15-2ef2-4643-8886-53299d4fa5e3" name="Fusion Reactor">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="Resource Attachment" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="4" />
+			<property name="Energy Cost" value="4" />
+			<property name="TEK Req" value="6" />
+		</card>
+		<card id="4d520fec-aa1f-4226-acb2-b3618c5030b3" name="Data Center">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="Resource Attachment" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="2" />
+			<property name="Energy Cost" value="1" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="098903cf-18f8-4bae-a648-584a3850a31e" name="DARPA">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="Pay X: Return target OPS card from its discard pile back to your OPS deck. X equals the COST of target OPS card." />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="1" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="104da627-1bd9-4a9b-9c60-09875ae37eee" name="Titan Forge">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="Unlock the Pyrite Rounds ability." />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="4" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="c033c87d-153d-4e1e-ab3e-21a58b43247e" name="Tank Yard">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="You now gain an additional Action per turn." />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="3" />
+			<property name="TEK Req" value="0" />
+		</card>
+		<card id="4be743a2-13db-4b8c-808f-26bc2295c905" name="Project BIOS">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="9046260e-82f2-4a1d-9c1e-573cf72957fc" name="Subterranean Colony">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="63ae50cb-2635-47af-bf68-0329958fb0c7" name="Flagship Orion">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="dd6ab00d-8f30-4e28-ba9f-399185c09044" name="Flagship Titan">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0278717d-fdba-468f-85f0-8e169e42d62c" name="Aero Rail Distribution Centers">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="69cec5cf-a615-48e3-b302-831247b47411" name="Quick Response Walker">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="34c6757f-1b79-4c75-b46d-2aaefc478ac0" name="Flame Walker">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="049c7bd0-06a7-4bb4-bda7-646ebe6a0429" name="City Defense Walker">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="07480292-5d99-40db-899d-98386b0dc955" name="C37 Powell">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="46ac40b1-f6cf-4585-b7bc-99947a966ee2" name="D03 MacArthur">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="cfb86fc4-4d62-42ed-ac0c-8d93a27bf2d6" name="SWAT Responder">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4cd5967c-1365-485f-98e9-43fa793f6754" name="Helios Platform">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="222d9736-830b-4d9c-9f62-7d663931c886" name="Fade Away">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="84cd05a6-8b68-4084-9eed-a4c7993a20b9" name="Fugitive Facsimile">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8e196113-8cd7-469a-a123-c3d8f3e269de" name="Carpet Bomb">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="ffb761bc-f451-4019-903f-f3ae6a50d2d9" name="Dangerous Dopplegangers">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="7f290803-544d-4655-8eff-c7ec37cb5111" name="Alpha Assault Squad">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="88b1aff0-39d3-436c-8e65-c2d1fd16e831" name="Clone Overrun">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="9c46a670-fa7e-4cf1-b4a5-ea21663c7e46" name="Linux Lexmada, Emergency Earth Coalition Commander">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Commander" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="546e57bd-9f45-4f6b-963e-05f6d17bbcf7" name="Capitol Ship Solaris">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Super Weapon" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b1cd144f-941c-4418-955b-9cd45005e7d1" name="New Arkom">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="Stronghold" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="2079cc30-dcdb-4085-896c-ce630022e99a" name="SKYCOMM War Room">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="21403c8c-82e8-4a33-aa49-5c5a3234c655" name="SKYCOMM">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8e19e3a3-d9f6-4c93-a956-0274ec1e216b" name="Communications Array">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="534410c6-0b0e-4c5f-bc20-e17072c11807" name="Battlefield Logistics">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="6a041cdf-5a94-4840-9f41-c330f723c41e" name="X5 Standard Walker">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="63199fdc-28db-485e-a24f-83ecf0c6e4f0" name="D52 Patreaus">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="9357f440-e17d-4b0c-abf4-5d43bb643af3" name="D32 Ramsfeld">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="bd0635c2-9452-426d-96a8-ba35680e4e25" name="XF34 Peregrine">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="dec9ce45-baeb-4505-a2ed-dfb901aaa99e" name="Vega Platform">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="d6062d65-ad29-479a-a064-be74d3674ca0" name="Zeus Heavy Transport">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="771a8aeb-518c-4ade-832c-cfa487d276c9" name="Enduring Human Spirit">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="c0443f28-01f8-4082-9d2e-be3aad6066c5" name="Tactical Genius">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="5fcb5a77-ad92-46b8-8372-75d231d79cc0" name="Assume Command">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="be42e6d3-1cd0-4db7-a1b5-775990430ca3" name="Pinpoint Nuke">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="bc6c7051-0a70-4a44-a6f1-d407d0b9c6b9" name="All Hands Barrage">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="02919b74-63e3-4ece-8144-893432dc1b83" name="Inspiring Transmission">
+			<property name="Faction" value="Human" />
+			<property name="Type" value="OPS" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="OPS" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0a5f483e-23e2-4f62-b9a9-1c5fe5d925da" name="ZGA114, the Juggernaut">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Commander" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="12f9896c-5dfd-4206-8e51-7c2cd4df27d6" name="Nightmare Engine">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Super Weapon" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="5e681729-9dd6-494e-b4de-d5b2bfeba81e" name="Tartarus">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b2edb45c-41cc-4a9f-bb00-0672ac7a5310" name="Hell's Architect">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="6398c92a-a744-4bfa-8fa4-5c06c0874f7f" name="Reckless Defenders">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b905c67a-af2c-453e-90b9-aa9a291d319d" name="Slag Extractor">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b6fa9518-55e8-4612-8a64-1c2d2f357135" name="Mother Core">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="d52a3bbc-a509-4e18-b11d-291da09fec09" name="Power Spire">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4aec6e5e-a9bd-4acc-ad04-8cc4ae9cf4ac" name="Improved Chassis">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="f70d4a94-b41b-4002-a54e-f303eaf49e8e" name="Memory Metal">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="44fec3d8-7480-496e-88fe-7117123a7953" name="Rolling Forge">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8869f7d4-0f3c-4636-8369-345f49ae2eaa" name="Critical Mass">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b192d8ca-4771-42d0-97cc-c12c8e706376" name="Exhaust Syntesizer">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="7a838089-51fa-4830-920d-737fa16fb51b" name="Modular Assembly">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="ac934d95-05ba-461d-982d-0257f18fc391" name="Programed Rage">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="6c1e7c5c-2fa1-4d4e-807f-a7bb5eb310e9" name="Darkest Hour">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="TEK" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="TEK" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4bed26f4-e567-41a7-afdf-b37ddc1afc5c" name="Reploid Hulk">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="c8436982-afa2-47ba-86f2-e11a5d5711b8" name="Reploid Spyder">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="7616e788-1439-449b-9d90-2627ae066783" name="Hell Dozer Engine">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="355e61a2-687b-452a-bd63-4fa4c7ee8418" name="Pincer Walker">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="1a0c67dc-a897-4c4e-a6d7-23b157e747f4" name="Nemesis Engine">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="06c272d2-3f87-4af9-9735-f47827e59180" name="City Siege Engine">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="UNIT" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="105b7e69-d9e5-44cc-ad59-4b0c6ea7868e" name="Forced Endurance">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="84186992-743e-4801-990c-476363971e0e" name="Rampage">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0ef91db9-68b9-4f78-8a46-c1a4159d218d" name="Destroyer">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="9c740653-c3a2-4164-a3e1-95f6aa9d0050" name="Core Reactivation">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="690c59bf-0b0d-483b-95a2-626a6e7da1dd" name="Skyscraper Avalanche">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="204965ea-e866-41d8-ab0c-26eb385930ef" name="Final Blow">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0a9379f5-df14-44d3-a8a4-03ec07c1fd95" name="CSX13, The Infinite One">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8a4fc7f8-d72a-4080-bdd5-9afbfd9346b4" name="Red Hand">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="27136281-bed4-4e21-80be-19819f96d096" name="Erebus">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="a48d68fc-dce7-4833-881d-0188c2bfc859" name="Composite Plating">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="baae0a36-0336-4f12-9848-98cdf5fa804f" name="Full Scale War">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="7272e71f-8ea3-4f0c-8fca-9453e8d970c0" name="Hardened Exosceleton">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="908f442a-a00d-44a9-be7b-e9a1a8899e2f" name="Automated Assembly">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="ee441f92-bd8c-4498-98c1-d2a01294cec7" name="Fractal Designs">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="f522c53a-9fe8-4ce0-aa93-4fff817100f8" name="Spinal Tappers">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="cc7a762d-cca4-4547-bf86-ca51e972e7f9" name="Swarm Carrier">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="ea157f80-241d-4e4e-a27b-ccfc0d94dd9e" name="Screamer Swarm">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4b62e519-1468-454c-95a7-f8848bc1dd8e" name="Swarm Harbinger">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="ef1b9b61-a548-4ad8-b132-8d07abba2f2f" name="Nanite Armor">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8f03fb5a-5cf6-4cae-ae7d-98e9d954197c" name="Nanite Repairs">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="3e7e53f0-c6b1-4c45-ad86-42db26c727c8" name="Nanite Eruption">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="fcbd6f3b-7e3d-467a-ab32-1575b1cb520a" name="Forced Sacrifice">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="a1b4f517-b1b7-4f86-a6b5-322f7c776289" name="Nanite Replicator">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="28a7e07b-8584-4e91-9804-b79b561c1495" name="March of Machines">
+			<property name="Faction" value="Machine Horde" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="645ec54f-0685-49cf-a4a8-bf059eb047a2" name="Mastermind of Time">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="39441b78-45c9-4bb3-9cca-241ec89d6eae" name="Chrono Control">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="d8c575d4-d0f7-492b-b2ad-c8f95394b002" name="Ancient's Stronghold">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4c8591ca-ae25-4219-bfce-dcbb0a5c44f0" name="Kinetic Force Bubble">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b576fe55-88c8-42c7-a9ee-ef2849433585" name="Dark Energy Dynamo">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="cef0302b-c3c6-4354-86bd-58f9a050612d" name="Solar Lines">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="Stronghold Attachment" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8cee1199-1a89-4324-80b6-c41475871114" name="Temporal Halo">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="caae54a8-77ab-44e2-81b9-658953ba5ee0" name="Quantum Bubble">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="cd142c8d-f1f4-4480-a3d0-d708322f5ef8" name="Paradox Compensator">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="cd4c041a-03f8-4e87-b24f-2fe8e414ad78" name="Anti-Matter Engine">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0cef1aad-afd2-4ef7-8bc8-30c3034aa6fa" name="Omni Element">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="238e1300-4631-4bba-ae7e-00103fa18138" name="Shield Drone">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="01a060c0-8db5-409b-876f-8f1642b509c9" name="ASSIST Drone">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="d87aea01-f261-4f47-b633-ae7ce49c2efa" name="Chrono Drone">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="38313a8b-9a18-4892-a468-4b7a46f8e95f" name="Assault Droid">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="b57a055a-835c-48fb-9dde-12edb0013c47" name="Mothership of Time">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="91871f0e-9f15-4dac-9d37-245e6d3a8bb2" name="Fast Forward">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="06ecee1e-af67-483f-9160-f6697d792f77" name="Lost in Time">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="f33727d0-156a-4fae-9ff5-add94d4bfea9" name="Reverse Time">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0bcc6ae7-968b-4059-945a-d29672ddf99f" name="Slow Motion">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="12345d3b-fa5c-453e-a658-2f8ec91b8067" name="Time Stop">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="9c5682c4-98e2-4257-8e0e-c3938ed8f306" name="Sunder Time">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="fc1b6c09-d455-44e0-8b31-250ecb1ce38c" name="Mastermind of Matter">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="494e647a-02bb-4aef-9627-0f62bcea3c92" name="Engineered Disaster: Supernova">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="03d39a79-3c38-49a7-bd7f-76f8010964de" name="City of Twilight">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8fb91612-8d88-4399-b29b-bd3d6894c8b4" name="Magneto Sphere">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="46d67749-2e1c-47ec-a668-5f5e7f7d6bb2" name="Background Radiation Collector">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="442a0832-243d-4dd3-82b2-36877ff2e9cc" name="Ancient's Gate">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="c992f917-7a8c-4f4b-a3fc-be3328ce2c23" name="Ancient's Laboratory">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="35bca15b-7538-470f-8025-860140df3bfa" name="Sinister Plans">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8dc97455-0796-4d00-9c44-f6e4a42ad6ef" name="World Line Compressor">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="93987dc0-2d49-4dae-a50c-f1064d436af0" name="Zero Hour">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="583e7dd3-38c0-40e7-85fc-39309db9f369" name="Terra-forming Station">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="0275512b-f6f3-4f76-855d-6db6a78a2993" name="Matter Drones">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="963191cb-49ba-450b-8b85-cdc6435686e1" name="Mothership of Matter">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="15d2d0f8-defb-4088-a293-bcb0572a4c00" name="De-Atomize">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="449e5451-35ac-4d93-a5b3-3a794ca879b3" name="Technological Superiority">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="a1a4211b-09c0-486f-a16c-4abe8e168edb" name="Omnipotence">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="8df84d62-fe56-46cc-819e-1c536aa24f8a" name="Reverse Gravity">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="4682fdf5-780c-44c6-8a77-6f694be3cfcb" name="Gravity Well">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+		<card id="da68832d-9f1d-4195-860f-592dadef306c" name="Anti-Matter Annihilation">
+			<property name="Faction" value="Ancients" />
+			<property name="Type" value="" />
+			<property name="Subtype" value="" />
+			<property name="Ability" value="" />
+			<property name="Effect" value="" />
+			<property name="Category" value="" />
+			<property name="Attack" value="" />
+			<property name="Damage" value="" />
+			<property name="Initiative" value="" />
+			<property name="Armor" value="" />
+			<property name="Health" value="" />
+			<property name="Population" value="" />
+			<property name="Production" value="" />
+			<property name="Energy Cost" value="" />
+			<property name="TEK Req" value="" />
+		</card>
+	</cards>
+</set>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1f9e9d47-2329-4473-af84-cc42ed9c399b">
+  <section name="Commander">
+    <card qty="1" id="fc1b6c09-d455-44e0-8b31-250ecb1ce38c">Mastermind of Matter</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="03d39a79-3c38-49a7-bd7f-76f8010964de">City of Twilight</card>
+  </section>
+  <section name="TEK">
+    <card qty="1" id="494e647a-02bb-4aef-9627-0f62bcea3c92">Engineered Disaster: Supernova</card>
+    <card qty="1" id="8fb91612-8d88-4399-b29b-bd3d6894c8b4">Magneto Sphere</card>
+    <card qty="1" id="4c8591ca-ae25-4219-bfce-dcbb0a5c44f0">Kinetic Force Bubble</card>
+    <card qty="2" id="b576fe55-88c8-42c7-a9ee-ef2849433585">Dark Energy Dynamo</card>
+    <card qty="2" id="46d67749-2e1c-47ec-a668-5f5e7f7d6bb2">Background Radiation Collector</card>
+    <card qty="2" id="cef0302b-c3c6-4354-86bd-58f9a050612d">Solar Lines</card>
+    <card qty="1" id="442a0832-243d-4dd3-82b2-36877ff2e9cc">Ancient's Gate</card>
+    <card qty="1" id="c992f917-7a8c-4f4b-a3fc-be3328ce2c23">Ancient's Laboratory</card>
+    <card qty="1" id="cd142c8d-f1f4-4480-a3d0-d708322f5ef8">Paradox Compensator</card>
+    <card qty="1" id="35bca15b-7538-470f-8025-860140df3bfa">Sinister Plans</card>
+    <card qty="1" id="8dc97455-0796-4d00-9c44-f6e4a42ad6ef">World Line Compressor</card>
+    <card qty="1" id="93987dc0-2d49-4dae-a50c-f1064d436af0">Zero Hour</card>
+    <card qty="1" id="cd4c041a-03f8-4e87-b24f-2fe8e414ad78">Anti-Matter Engine</card>
+    <card qty="1" id="583e7dd3-38c0-40e7-85fc-39309db9f369">Terra-forming Station</card>
+  </section>
+  <section name="OPS">
+    <card qty="4" id="15d2d0f8-defb-4088-a293-bcb0572a4c00">De-Atomize</card>
+    <card qty="3" id="449e5451-35ac-4d93-a5b3-3a794ca879b3">Technological Superiority</card>
+    <card qty="3" id="a1a4211b-09c0-486f-a16c-4abe8e168edb">Omnipotence</card>
+    <card qty="4" id="8df84d62-fe56-46cc-819e-1c536aa24f8a">Reverse Gravity</card>
+    <card qty="3" id="4682fdf5-780c-44c6-8a77-6f694be3cfcb">Gravity Well</card>
+    <card qty="2" id="da68832d-9f1d-4195-860f-592dadef306c">Anti-Matter Annihilation</card>
+  </section>
+  <section name="WAR">
+    <card qty="3" id="238e1300-4631-4bba-ae7e-00103fa18138">Shield Drone</card>
+    <card qty="3" id="01a060c0-8db5-409b-876f-8f1642b509c9">ASSIST Drone</card>
+    <card qty="3" id="0275512b-f6f3-4f76-855d-6db6a78a2993">Matter Drones</card>
+    <card qty="2" id="38313a8b-9a18-4892-a468-4b7a46f8e95f">Assault Droid</card>
+    <card qty="1" id="963191cb-49ba-450b-8b85-cdc6435686e1">Mothership of Matter</card>
+  </section>
+</deck>

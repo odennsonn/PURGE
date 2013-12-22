@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1f9e9d47-2329-4473-af84-cc42ed9c399b">
+  <section name="Commander">
+    <card qty="1" id="0a9379f5-df14-44d3-a8a4-03ec07c1fd95">CSX13, The Infinite One</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="27136281-bed4-4e21-80be-19819f96d096">Erebus</card>
+  </section>
+  <section name="TEK">
+    <card qty="1" id="8a4fc7f8-d72a-4080-bdd5-9afbfd9346b4">Red Hand</card>
+    <card qty="1" id="b2edb45c-41cc-4a9f-bb00-0672ac7a5310">Hell's Architect</card>
+    <card qty="1" id="6398c92a-a744-4bfa-8fa4-5c06c0874f7f">Reckless Defenders</card>
+    <card qty="2" id="b905c67a-af2c-453e-90b9-aa9a291d319d">Slag Extractor</card>
+    <card qty="2" id="b6fa9518-55e8-4612-8a64-1c2d2f357135">Mother Core</card>
+    <card qty="2" id="d52a3bbc-a509-4e18-b11d-291da09fec09">Power Spire</card>
+    <card qty="1" id="a48d68fc-dce7-4833-881d-0188c2bfc859">Composite Plating</card>
+    <card qty="1" id="baae0a36-0336-4f12-9848-98cdf5fa804f">Full Scale War</card>
+    <card qty="1" id="7272e71f-8ea3-4f0c-8fca-9453e8d970c0">Hardened Exosceleton</card>
+    <card qty="1" id="44fec3d8-7480-496e-88fe-7117123a7953">Rolling Forge</card>
+    <card qty="1" id="908f442a-a00d-44a9-be7b-e9a1a8899e2f">Automated Assembly</card>
+    <card qty="1" id="4aec6e5e-a9bd-4acc-ad04-8cc4ae9cf4ac">Improved Chassis</card>
+    <card qty="1" id="ee441f92-bd8c-4498-98c1-d2a01294cec7">Fractal Designs</card>
+    <card qty="1" id="b192d8ca-4771-42d0-97cc-c12c8e706376">Exhaust Syntesizer</card>
+  </section>
+  <section name="OPS">
+    <card qty="3" id="ef1b9b61-a548-4ad8-b132-8d07abba2f2f">Nanite Armor</card>
+    <card qty="3" id="8f03fb5a-5cf6-4cae-ae7d-98e9d954197c">Nanite Repairs</card>
+    <card qty="3" id="3e7e53f0-c6b1-4c45-ad86-42db26c727c8">Nanite Eruption</card>
+    <card qty="3" id="fcbd6f3b-7e3d-467a-ab32-1575b1cb520a">Forced Sacrifice</card>
+    <card qty="3" id="a1b4f517-b1b7-4f86-a6b5-322f7c776289">Nanite Replicator</card>
+    <card qty="2" id="28a7e07b-8584-4e91-9804-b79b561c1495">March of Machines</card>
+  </section>
+  <section name="WAR">
+    <card qty="3" id="f522c53a-9fe8-4ce0-aa93-4fff817100f8">Spinal Tappers</card>
+    <card qty="3" id="4bed26f4-e567-41a7-afdf-b37ddc1afc5c">Reploid Hulk</card>
+    <card qty="2" id="cc7a762d-cca4-4547-bf86-ca51e972e7f9">Swarm Carrier</card>
+    <card qty="2" id="355e61a2-687b-452a-bd63-4fa4c7ee8418">Pincer Walker</card>
+    <card qty="2" id="ea157f80-241d-4e4e-a27b-ccfc0d94dd9e">Screamer Swarm</card>
+    <card qty="2" id="4b62e519-1468-454c-95a7-f8848bc1dd8e">Swarm Harbinger</card>
+  </section>
+</deck>

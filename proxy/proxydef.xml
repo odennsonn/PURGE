@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" ?>
+   <templates>
+      <blocks>
+   <!-- Commander Block-->
+         <block type="text" id="commander_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_attack">
+            <location x="39" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_damage">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_initiative">
+            <location x="39" y="105" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_armor">
+            <location x="340" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_health">
+            <location x="340" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="commander_ability">
+            <location x="20" y="215" />
+            <text color="#FFFFFF" size="12" />
+            <border color="#440044" size="1" />
+         </block>		 
+   <!-- Defense Block-->
+         <block type="text" id="defense_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="defense_cost">
+            <location x="285" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="defense_requirement">
+            <location x="337" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="defense_attack">
+            <location x="39" y="45" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="defense_damage">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="defense_effect">
+            <location x="340" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+   <!-- Resource Block-->
+         <block type="text" id="resource_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="resource_cost">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="resource_requirement">
+            <location x="39" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="resource_income">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="resource_effect">
+            <location x="340" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+   <!-- Stronghold Block-->
+         <block type="text" id="stronghold_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="stronghold_income">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="stronghold_armor">
+            <location x="39" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="stronghold_population">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+   <!-- TEK Block-->
+         <block type="text" id="tek_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="tek_cost">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="tek_requirement">
+            <location x="39" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="tek_effect">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+   <!-- Unit Block-->
+		 <block type="text" id="unit_name">
+            <location x="20" y="16" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_attack">
+            <location x="39" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_damage">
+            <location x="39" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_armor">
+            <location x="340" y="54" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_health">
+            <location x="340" y="80" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_ability">
+            <location x="20" y="150" />
+            <text color="#FFFFFF" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+		 <block type="text" id="unit_effect">
+            <location x="85" y="100" />
+            <text color="#000000" size="12" />
+            <border color="#440044" size="1" />
+         </block>
+	  </blocks>
+<!-- TEMPLATES -->
+	  <template src="proxy/commanders/machinecommander.png">
+         <matches>
+            <match name="Faction" value="Machine Horde" />
+            <match name="Type" value="Commander" />
+         </matches>
+		 <textblocks>
+            <link block="commander_name" separator=" ">
+               <property name="Name"  />
+            </link>
+            <link block="commander_attack" separator=" ">
+               <property name="Attack"  />
+            </link>
+            <link block="commander_damage" separator=" ">
+               <property name="Damage"  />
+            </link>
+            <link block="commander_initiative" separator=" ">
+               <property name="Initiative"  />
+            </link>
+            <link block="commander_armor" separator=" ">
+               <property name="Armor"  />
+            </link>
+            <link block="commander_health" separator=" ">
+               <property name="Health"  />
+            </link>
+            <link block="commander_ability" separator=" ">
+               <property name="Ability"  />
+            </link>			
+         </textblocks>
+      </template>
+	  <template src="proxy/commanders/humancommander.png">
+         <matches>
+            <match name="Faction" value="Human" />
+            <match name="Type" value="Commander" />
+         </matches>
+		 <textblocks>
+            <link block="commander_name" separator=" ">
+               <property name="Name"  />
+            </link>
+            <link block="commander_attack" separator=" ">
+               <property name="Attack"  />
+            </link>
+            <link block="commander_damage" separator=" ">
+               <property name="Damage"  />
+            </link>
+            <link block="commander_initiative" separator=" ">
+               <property name="Initiative"  />
+            </link>
+            <link block="commander_armor" separator=" ">
+               <property name="Armor"  />
+            </link>
+            <link block="commander_health" separator=" ">
+               <property name="Health"  />
+            </link>
+            <link block="commander_ability" separator=" ">
+               <property name="Ability"  />
+            </link>	            
+         </textblocks>
+      </template>
+	  <template src="proxy/commanders/ancientcommander.png">
+         <matches>
+            <match name="Faction" value="Ancients" />
+            <match name="Type" value="Commander" />
+         </matches>
+		 <textblocks>
+            <link block="commander_name" separator=" ">
+               <property name="Name"  />
+            </link>
+            <link block="commander_attack" separator=" ">
+               <property name="Attack"  />
+            </link>
+            <link block="commander_damage" separator=" ">
+               <property name="Damage"  />
+            </link>
+            <link block="commander_initiative" separator=" ">
+               <property name="Initiative"  />
+            </link>
+            <link block="commander_armor" separator=" ">
+               <property name="Armor"  />
+            </link>
+            <link block="commander_health" separator=" ">
+               <property name="Health"  />
+            </link>
+            <link block="commander_ability" separator=" ">
+               <property name="Ability"  />
+            </link>			
+         </textblocks>
+      </template>
+   </templates>
+   

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1f9e9d47-2329-4473-af84-cc42ed9c399b">
+  <section name="Commander">
+    <card qty="1" id="187f5bb8-741e-495b-8322-c5b0ed003453">Eva X, Alpha Clone Matriarch</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="d5f80d2f-4f08-4d63-8268-ed73cdb87b12">Tridora City</card>
+  </section>
+  <section name="TEK">
+    <card qty="1" id="86027463-9ffb-40ff-b0e7-1552d979b53d">Hawking Cannon</card>
+    <card qty="1" id="3b312736-c7c1-4b49-8ae0-f5105deea980">Prism Tower</card>
+    <card qty="1" id="668d59c5-7f46-4a31-8003-e6247c2c33e3">Hell Screamer Missile Batteries</card>
+    <card qty="2" id="eba0f97a-98b5-4de1-a72c-671593461004">V-Sphere Holo Chamber</card>
+    <card qty="2" id="63ac5c15-2ef2-4643-8886-53299d4fa5e3">Fusion Reactor</card>
+    <card qty="2" id="4d520fec-aa1f-4226-acb2-b3618c5030b3">Data Center</card>
+    <card qty="1" id="098903cf-18f8-4bae-a648-584a3850a31e">DARPA</card>
+    <card qty="1" id="104da627-1bd9-4a9b-9c60-09875ae37eee">Titan Forge</card>
+    <card qty="1" id="c033c87d-153d-4e1e-ab3e-21a58b43247e">Tank Yard</card>
+    <card qty="1" id="4be743a2-13db-4b8c-808f-26bc2295c905">Project BIOS</card>
+    <card qty="1" id="9046260e-82f2-4a1d-9c1e-573cf72957fc">Subterranean Colony</card>
+    <card qty="1" id="63ae50cb-2635-47af-bf68-0329958fb0c7">Flagship Orion</card>
+    <card qty="1" id="dd6ab00d-8f30-4e28-ba9f-399185c09044">Flagship Titan</card>
+    <card qty="1" id="0278717d-fdba-468f-85f0-8e169e42d62c">Aero Rail Distribution Centers</card>
+  </section>
+  <section name="OPS">
+    <card qty="3" id="222d9736-830b-4d9c-9f62-7d663931c886">Fade Away</card>
+    <card qty="3" id="84cd05a6-8b68-4084-9eed-a4c7993a20b9">Fugitive Facsimile</card>
+    <card qty="2" id="8e196113-8cd7-469a-a123-c3d8f3e269de">Carpet Bomb</card>
+    <card qty="2" id="ffb761bc-f451-4019-903f-f3ae6a50d2d9">Dangerous Dopplegangers</card>
+    <card qty="3" id="7f290803-544d-4655-8eff-c7ec37cb5111">Alpha Assault Squad</card>
+    <card qty="2" id="88b1aff0-39d3-436c-8e65-c2d1fd16e831">Clone Overrun</card>
+  </section>
+  <section name="WAR">
+    <card qty="2" id="69cec5cf-a615-48e3-b302-831247b47411">Quick Response Walker</card>
+    <card qty="2" id="34c6757f-1b79-4c75-b46d-2aaefc478ac0">Flame Walker</card>
+    <card qty="3" id="049c7bd0-06a7-4bb4-bda7-646ebe6a0429">City Defense Walker</card>
+    <card qty="3" id="07480292-5d99-40db-899d-98386b0dc955">C37 Powell</card>
+    <card qty="2" id="46ac40b1-f6cf-4585-b7bc-99947a966ee2">D03 MacArthur</card>
+    <card qty="2" id="cfb86fc4-4d62-42ed-ac0c-8d93a27bf2d6">SWAT Responder</card>
+    <card qty="2" id="4cd5967c-1365-485f-98e9-43fa793f6754">Helios Platform</card>
+  </section>
+</deck>

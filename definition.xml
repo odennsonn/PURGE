@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="PURGE Sins of Science" id="1f9e9d47-2329-4473-af84-cc42ed9c399b" octgnVersion="3.1.12.62" version="1.0.1.0" markersize="16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+		setsurl="http://www.purgesinsofscience.com/" gameurl="http://www.purgesinsofscience.com/" authors="Marin Zambata"
+		description="The 1st Real Time Strategy Card Game from Nova Forge Enterprise"
+		tags="RTS Strategy 2-Player Multiplayer Standalone Kickstarter" iconurl="https://dl.dropboxusercontent.com/u/17391538/OCTGN/PURGE/PURGE.jpg">
+	<scripts>
+		<script src="scripts/actions.py" />
+	</scripts>	
+	<proxygen definitionsrc="proxy/proxydef.xml">
+	</proxygen>
+	<documents>
+      <document name="Rules" icon="icons/eve.jpg" src="documents/rules.txt" />
+	  <document name="FAQ" icon="icons/mat.jpg" src="documents/FAQ.txt" />
+    </documents>
+	<card back="cards/back.png" front="cards/front.png" width="123" height="88" cornerRadius="5">
+		<property name="Faction" type="String" hidden="False" ignoreText="False" />
+		<property name="Type" type="String" hidden="False" ignoreText="False" />
+		<property name="Ability" type="String" hidden="False" ignoreText="False" />
+		<property name="Effect" type="String" hidden="False" ignoreText="False" />
+		<property name="Category" type="String" hidden="False" ignoreText="False" />
+		<property name="Attack" type="String" hidden="False" ignoreText="False" />
+		<property name="Damage" type="String" hidden="False" ignoreText="False" />
+		<property name="Initiative" type="String" hidden="False" ignoreText="False" />
+		<property name="Armor" type="String" hidden="False" ignoreText="False" />
+		<property name="Health" type="String" hidden="False" ignoreText="False" />
+		<property name="Population" type="String" hidden="False" ignoreText="False" />
+		<property name="Production" type="String" hidden="False" ignoreText="False" />
+		<property name="Energy Cost" type="String" hidden="False" ignoreText="False" />
+		<property name="TEK Req" type="String" hidden="False" ignoreText="False" />
+	</card>
+	<table name="Table" visibility="undefined" ordered="False" width="838" height="636" background="background/background.png" backgroundStyle="uniformToFill">
+		<groupaction menu="Flip a Coin" default="True" shortcut="ctrl+F" execute="flipCoin" />
+		<groupaction menu="Announce Battlefield Attack" default="False" shortcut="alt+b" execute="announceBA" />
+		<groupaction menu="Announce Stronghold Attack" default="False" shortcut="alt+o" execute="announceSA" />
+		<groupaction menu="Hold on please!" default="False" shortcut="alt+h" execute="holdOn" />
+		<groupaction menu="Pass" default="False" shortcut="alt+p" execute="endTurn" />
+		<cardaction menu="Flip Card" default="False" shortcut="F8" execute="flipcard" />
+		<cardaction menu="Add_Attack" default="False" shortcut="ctrl+q" execute="addAttack" />
+		<cardaction menu="Add_Damage" default="False" shortcut="ctrl+a" execute="addDamage" />
+		<cardaction menu="Add_Armor" default="False" shortcut="ctrl+w" execute="addArmor" />
+		<cardaction menu="Add_Health" default="False" shortcut="ctrl+s" execute="addHealth" />
+		<cardaction menu="Sub_Attack" default="False" shortcut="alt+q" execute="subAttack" />
+		<cardaction menu="Sub_Damage" default="False" shortcut="alt+a" execute="subDamage" />
+		<cardaction menu="Sub_Armor" default="False" shortcut="alt+w" execute="subArmor" />
+		<cardaction menu="Sub_Health" default="False" shortcut="alt+s" execute="subHealth" />
+		<groupaction menu="Scoop table for rematch" default="False" shortcut="alt+r" execute="scoop" />
+	</table>
+	<player summary="{#TEK} / {#Turn} / {#POP} / {#Supply} / {#Actions} / {#Energy}">
+		<hand name="Hand" visibility="me" ordered="False" width="88" height="63" icon="groups/hand.png" />
+		<group name="TEK Deck" visibility="me" ordered="False" width="88" height="63" icon="groups/tekdeck.png" collapsed="False" />
+		<group name="TEK Discard" visibility="all" ordered="False" width="88" height="63" icon="groups/tekdiscard.png" collapsed="False" />
+		<group name="OPS Deck" visibility="me" ordered="False" width="88" height="63" icon="groups/opsdeck.png" collapsed="False" />
+		<group name="OPS Discard" visibility="all" ordered="False" width="88" height="63" icon="groups/opsdiscard.png" collapsed="False" />
+		<group name="WAR Deck" visibility="me" ordered="False" width="88" height="63" icon="groups/wardeck.png" collapsed="False" />
+		<group name="WAR Discard" visibility="all" ordered="False" width="88" height="63" icon="groups/wardiscard.png" collapsed="False" />
+		<counter name="TEK" default="1" reset="False" icon="counters/tek.png" />
+		<counter name="Turn" default="1" reset="False" icon="counters/turn.png" />
+		<counter name="POP" default="19" reset="False" icon="counters/pop.png" />
+		<counter name="Supply" default="11" reset="False" icon="counters/supply.png" />
+		<counter name="Actions" default="3" reset="False" icon="counters/actions.png" />
+		<counter name="Energy" default="0" reset="False" icon="counters/energy.png" />
+	</player>
+	<deck>
+		<section name="Commander" group="Hand" />
+		<section name="Stronghold" group="Hand" />
+		<section name="TEK" group="TEK Deck" />
+		<section name="OPS" group="OPS Deck" />
+		<section name="WAR" group="WAR Deck" />
+	</deck>
+	</game>

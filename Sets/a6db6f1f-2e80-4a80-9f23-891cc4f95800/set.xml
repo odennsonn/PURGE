@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="PURGE Markers" id="a6db6f1f-2e80-4a80-9f23-891cc4f95800" gameId="1f9e9d47-2329-4473-af84-cc42ed9c399b" gameVersion="1.0.1" version="1.0">
+	<markers>
+		<marker id="a6db6f1f-2e80-4a80-9f23-891cc4f95801" name="attack" />
+		<marker id="a6db6f1f-2e80-4a80-9f23-891cc4f95802" name="damage" />
+		<marker id="a6db6f1f-2e80-4a80-9f23-891cc4f95803" name="armor" />
+		<marker id="a6db6f1f-2e80-4a80-9f23-891cc4f95804" name="health" />
+	</markers>
+</set>

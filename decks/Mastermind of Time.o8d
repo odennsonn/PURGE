@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="1f9e9d47-2329-4473-af84-cc42ed9c399b">
+  <section name="Commander">
+    <card qty="1" id="645ec54f-0685-49cf-a4a8-bf059eb047a2">Mastermind of Time</card>
+  </section>
+  <section name="Stronghold">
+    <card qty="1" id="d8c575d4-d0f7-492b-b2ad-c8f95394b002">Ancient's Stronghold</card>
+  </section>
+  <section name="TEK">
+    <card qty="1" id="39441b78-45c9-4bb3-9cca-241ec89d6eae">Chrono Control</card>
+    <card qty="1" id="8fb91612-8d88-4399-b29b-bd3d6894c8b4">Magneto Sphere</card>
+    <card qty="1" id="4c8591ca-ae25-4219-bfce-dcbb0a5c44f0">Kinetic Force Bubble</card>
+    <card qty="2" id="b576fe55-88c8-42c7-a9ee-ef2849433585">Dark Energy Dynamo</card>
+    <card qty="2" id="46d67749-2e1c-47ec-a668-5f5e7f7d6bb2">Background Radiation Collector</card>
+    <card qty="2" id="cef0302b-c3c6-4354-86bd-58f9a050612d">Solar Lines</card>
+    <card qty="1" id="8cee1199-1a89-4324-80b6-c41475871114">Temporal Halo</card>
+    <card qty="1" id="caae54a8-77ab-44e2-81b9-658953ba5ee0">Quantum Bubble</card>
+    <card qty="1" id="442a0832-243d-4dd3-82b2-36877ff2e9cc">Ancient's Gate</card>
+    <card qty="1" id="cd142c8d-f1f4-4480-a3d0-d708322f5ef8">Paradox Compensator</card>
+    <card qty="1" id="583e7dd3-38c0-40e7-85fc-39309db9f369">Terra-forming Station</card>
+    <card qty="1" id="c992f917-7a8c-4f4b-a3fc-be3328ce2c23">Ancient's Laboratory</card>
+    <card qty="1" id="cd4c041a-03f8-4e87-b24f-2fe8e414ad78">Anti-Matter Engine</card>
+    <card qty="1" id="0cef1aad-afd2-4ef7-8bc8-30c3034aa6fa">Omni Element</card>
+  </section>
+  <section name="OPS">
+    <card qty="3" id="91871f0e-9f15-4dac-9d37-245e6d3a8bb2">Fast Forward</card>
+    <card qty="4" id="06ecee1e-af67-483f-9160-f6697d792f77">Lost in Time</card>
+    <card qty="4" id="f33727d0-156a-4fae-9ff5-add94d4bfea9">Reverse Time</card>
+    <card qty="4" id="0bcc6ae7-968b-4059-945a-d29672ddf99f">Slow Motion</card>
+    <card qty="4" id="12345d3b-fa5c-453e-a658-2f8ec91b8067">Time Stop</card>
+    <card qty="3" id="9c5682c4-98e2-4257-8e0e-c3938ed8f306">Sunder Time</card>
+  </section>
+  <section name="WAR">
+    <card qty="2" id="238e1300-4631-4bba-ae7e-00103fa18138">Shield Drone</card>
+    <card qty="2" id="01a060c0-8db5-409b-876f-8f1642b509c9">ASSIST Drone</card>
+    <card qty="2" id="d87aea01-f261-4f47-b633-ae7ce49c2efa">Chrono Drone</card>
+    <card qty="2" id="38313a8b-9a18-4892-a468-4b7a46f8e95f">Assault Droid</card>
+    <card qty="1" id="b57a055a-835c-48fb-9dde-12edb0013c47">Mothership of Time</card>
+  </section>
+</deck>
